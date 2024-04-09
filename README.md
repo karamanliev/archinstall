@@ -1,4 +1,5 @@
-# My PC Specs (important, because these might not be applicable for somebody else)
+# My PC Specs 
+(important, because these might not be applicable for somebody else)
 
 - MSI B450 Tomahawk MAX (7C02v3I BIOS)
 - AMD Ryzen5 3600
