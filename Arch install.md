@@ -157,7 +157,10 @@ cat /etc/pacman.d/mirrorlist
     "neofetch",
     "htop",
     "zsh",
-    "telegram-desktop"
+    "telegram-desktop",
+    "tldr",
+    "man-db",
+    "man-pages"
   ],
   "parallel downloads": 0,
   "profile_config": {
