@@ -156,6 +156,7 @@ cat /etc/pacman.d/mirrorlist
     "firefox",
     "neofetch",
     "htop",
+    "btop",
     "zsh",
     "telegram-desktop"
   ],
