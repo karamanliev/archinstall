@@ -160,7 +160,8 @@ cat /etc/pacman.d/mirrorlist
     "telegram-desktop",
     "tldr",
     "man-db",
-    "man-pages"
+    "man-pages",
+    "timeshift"
   ],
   "parallel downloads": 0,
   "profile_config": {
