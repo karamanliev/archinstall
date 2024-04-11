@@ -3,10 +3,10 @@ Install packages:
 yay snapper btrf-assistant
 ```
 
-Delete `.root/` folder created  by archinstall:
+Delete `.snapshots/` folder created  by archinstall:
 ```
-sudo umount /.root/
-sudo rm - r /.root/
+sudo umount /.snapshots/
+sudo rm - r /.snapshots/
 ```
 
 Create new config to backup `/`
