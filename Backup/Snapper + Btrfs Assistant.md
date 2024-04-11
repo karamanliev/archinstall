@@ -18,3 +18,4 @@ Need to fix problem with double `@snapshots` and `@/.snapshots` subvolumes and r
 ### References:
 - [BTRFS snapshots and system rollbacks on Arch Linux](https://www.dwarmstrong.org/btrfs-snapshots-rollbacks/)
 - [Arch Wiki BTRFS] (https://wiki.archlinux.org/title/btrfs)
+- [Arch Wiki Snapper](https://wiki.archlinux.org/title/Snapper#Suggested_filesystem_layout)
