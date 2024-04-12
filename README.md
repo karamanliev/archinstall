@@ -10,3 +10,4 @@
 
 ## Useful Links
 - https://arch.d3sox.me/
+- [Arch Linux installation with unified kernel image (UKI), full disk encryption, secure boot, btrfs snapshots, and common setups](https://wiki.archlinux.org/title/User:Bai-Chiang/Arch_Linux_installation_with_unified_kernel_image_(UKI),_full_disk_encryption,_secure_boot,_btrfs_snapshots,_and_common_setups#zram)

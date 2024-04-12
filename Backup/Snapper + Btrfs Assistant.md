@@ -19,6 +19,8 @@ Create new config to backup `/`
 #DONE: 
 - renamed @.snapshots to @snapshots!
 - removed subvolid from `/etc/fstab`
+- removed /boot from /dev/sdc2
+- basically used this guide to do the rest: - [Arch Linux installation with unified kernel image (UKI), full disk encryption, secure boot, btrfs snapshots, and common setups](https://wiki.archlinux.org/title/User:Bai-Chiang/Arch_Linux_installation_with_unified_kernel_image_(UKI),_full_disk_encryption,_secure_boot,_btrfs_snapshots,_and_common_setups#zram)
 
 ### References:
 - [BTRFS snapshots and system rollbacks on Arch Linux](https://www.dwarmstrong.org/btrfs-snapshots-rollbacks/)
