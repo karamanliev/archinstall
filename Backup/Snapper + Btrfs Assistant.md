@@ -26,3 +26,4 @@ Create new config to backup `/`
 - [BTRFS snapshots and system rollbacks on Arch Linux](https://www.dwarmstrong.org/btrfs-snapshots-rollbacks/)
 - [Arch Wiki BTRFS] (https://wiki.archlinux.org/title/btrfs)
 - [Arch Wiki Snapper](https://wiki.archlinux.org/title/Snapper#Suggested_filesystem_layout)
+- [https://www.dwarmstrong.org/btrfs-snapshots-rollbacks/](https://www.dwarmstrong.org/btrfs-snapshots-rollbacks/)
