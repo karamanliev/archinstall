@@ -1,2 +1,3 @@
 - [sammilucia/arch-gaming](https://github.com/sammilucia/arch-gaming)
 - [d3sox arch gaming](https://arch.d3sox.me/gaming) - just did this + mangohud/goverlay
+- https://github.com/ValveSoftware/Proton/wiki/Using-a-NTFS-disk-with-Linux-and-Windows
