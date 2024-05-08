@@ -21,3 +21,5 @@ This one caused me problems, other thing I tried is adding `usbcore.autosuspend=
 # /etc/kernel/cmdline
 root=PARTUUID=277934fa-dabb-4194-89d4-28223f482be0 zswap.enabled=0 rootflags=subvol=@ rw rootfstype=btrfs quiet loglevel=3 usbcore.autosuspend=-1 nvidia_drm.modeset=1 nvidia_drm.fbdev=1
 ```
+
+The second one worked.
